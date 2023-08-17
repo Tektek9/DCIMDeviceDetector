@@ -1,5 +1,5 @@
 # DCIMDeviceDetector
-Tool automatisasi buatan pribadi ketika menjadi auditor infrastruktur
+Tool automatisasi buatan pribadi ketika menjadi auditor infrastruktur 
 
 
 Menu:
